@@ -13,5 +13,6 @@ public class Demo {
         System.out.println(a.equals(b));
         // did not add
         // didn't add
+        System.out.println(a.equals(a));
     }
 }
