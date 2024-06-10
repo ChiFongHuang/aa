@@ -10,5 +10,6 @@ public class Demo {
         // good
         // did not add
         // second try
+        System.out.println(a.equals(b));
     }
 }
