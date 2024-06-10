@@ -19,5 +19,6 @@ public class Demo {
         //did not add
         //add
         //did not add
+        System.out.println(a.equals(b));
     }
 }
