@@ -11,5 +11,7 @@ public class Demo {
         // did not add
         // second try
         System.out.println(a.equals(b));
+        // did not add
+        // didn't add
     }
 }
